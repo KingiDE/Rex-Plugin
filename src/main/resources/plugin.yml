@@ -1,0 +1,22 @@
+name: Rexplugin
+version: '${project.version}'
+main: de.kingi.rexplugin.Rexplugin
+api-version: 1.19
+commands:
+  afk:
+  prefix:
+  heal:
+  ping:
+  spawnprotection:
+    aliases: sp
+  fly:
+  spawnmob:
+    aliases: sm
+  inventory:
+    aliases: inv
+  position:
+    aliases: pos
+  challenge:
+    aliases: [ch, challenges]
+  settings:
+  timer:
