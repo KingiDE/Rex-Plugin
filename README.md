@@ -1,2 +1,2 @@
 # Rex-Plugin
-see README.md
+This is a repository
