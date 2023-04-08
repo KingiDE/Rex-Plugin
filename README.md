@@ -1,2 +1,2 @@
 # Rex-Plugin
-This is a repository for my own Minecraft Challenge Plugin which was made with Java and the Spigot-API.
+This is my own Minecraft Challenge Plugin made with Java and the Spigot-API.
